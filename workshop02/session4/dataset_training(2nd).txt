@@ -1,0 +1,5 @@
+The 2nd batch training dataset can be found
+1) training.zip (human verified photos, 176 photos)
+https://uofmacau-my.sharepoint.com/:u:/g/personal/yb87429_umac_mo/EfF3Dkb9wyJAjCmvF9-rq6gBUXS7FpS527Uxf9Wb33yMFw
+2) training+.zip (including human verified photos and unverified photos, 1223 photos)
+https://uofmacau-my.sharepoint.com/:u:/g/personal/yb87429_umac_mo/EUeRBwMgFZBOvhqB6xN1NtYBGc4wyPYxswtQQfcyIDcWzA
